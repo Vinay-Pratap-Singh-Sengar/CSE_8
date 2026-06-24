@@ -10,9 +10,9 @@ public class Simple_Interest {
 
         System.out.println("Interest rate is : " +si);
 
-//        implicit typecasting 
-        System.out.println(2+2);
-        System.out.println("2"+2);
+////        implicit typecasting
+//        System.out.println(2+2);
+//        System.out.println("2"+2);
 
     }
 }
