@@ -1,4 +1,4 @@
-package second_class;
+package Lab_2;
 
 import java.util.Scanner;
 public class User_Input {

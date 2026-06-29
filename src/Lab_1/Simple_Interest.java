@@ -1,4 +1,4 @@
-package first_class;
+package Lab_1;
 
 public class Simple_Interest {
     public static void main(String[] args) {
